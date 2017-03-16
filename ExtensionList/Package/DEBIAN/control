@@ -1,0 +1,17 @@
+Package: com.zidaneno5.ExtensionList
+Name: ExtensionList
+Version: 1.0-1
+Description: Provide a list of App Extensions.
+Section: System
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: duyongchao <duyongchao.h@gmail.com>
+dev: zidaneno5
+Homepage: 
+Depiction: 
+Maintainer: duyongchao <duyongchao.h@gmail.com>
+Icon: 
+
