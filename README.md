@@ -18,7 +18,7 @@ ALSectionDescriptors = (
 		predicate = "protocol contains 'keyboard-service'";
 		"icon-size" = 29;
 		"cell-class-name" = ELSwitchCell;
-    "avaliable-extensions" = 0;
+		"avaliable-extensions" = 0;
 	},
 )
 ```
